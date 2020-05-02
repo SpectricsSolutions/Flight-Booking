@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--searchflight-->
+
+
+    <color name="_bg____1_search_flight_color">#ffffff</color>
+    <color name="rectangle_1_color">#f6f9ff</color>
+    <color name="rectangle_ek1_color">#3b3434</color>
+    <color name="_9_41_color">#3b3434</color>
+    <color name="search_flights_color">#1e2432</color>
+    <color name="one_way_color">#616f8d</color>
+    <color name="one_way_ek1_color">#000000</color>
+    <color name="rectangle_6_color">#000000</color>
+    <color name="get_started__color">#ffffff</color>
+    <color name="line_color">#cad1de</color>
+
+    <!--select Ticket-->
+
+    <color name="_bg____2_select_ticke_color">#ffffff</color>
+
+
+
+    <color name="rectangle_5_color">#cad1de</color>
+    <color name="one_way_ek2_color">#ffffff</color>
+    <color name="__283_color">#7ed321</color>
+    <color name="__283_ek1_color">#f9a818</color>
+    <color name="__283_ek2_color">#ff4064</color>
+    <color name="rectangle_10_color">#501c4b</color>
+
+
+    <!-- _3_flight_booked colors -->
+
+
+    <color name="_bg____3_flight_booked_color">#ffffff</color>
+
+    <color name="rectangle_2912_color">#000000</color>
+    <color name="rectangle_2_copy_2_color">#616f8d</color>
+    <color name="rectangle_2_copy_color">#cad1de</color>
+    <color name="slm_color">#191948</color>
+    <color name="business_class_color">#000000</color>
+    <color name="_4_flight_tickets_color">#161646</color>
+    <color name="date_color">#616f8d</color>
+
+</resources>
+

@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Flight-Booking</string>
+
+
+    <!--searchflight-->
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="_9_41_string">9:41</string>
+    <string name="search_flights_string">Search Flights</string>
+    <string name="one_way_string">From</string>
+    <string name="one_way_ek1_string">Amsterdam, Netherlands</string>
+    <string name="one_way_ek2_string">To</string>
+    <string name="one_way_ek3_string">New Delhi, India</string>
+    <string name="one_way_ek4_string">Travellers</string>
+    <string name="one_way_ek5_string">2 Adults</string>
+    <string name="one_way_ek6_string">Departure</string>
+    <string name="one_way_ek7_string">12 Feb, 2020</string>
+    <string name="one_way_ek8_string">Class</string>
+    <string name="one_way_ek9_string">Business</string>
+    <string name="get_started__string">Search Flights</string>
+    <string name="search_flights_ek1_string">Search Flights</string>
+    <string name="one_way_ek10_string">to visit New Delhi India</string>
+    <string name="one_way_ek11_string">See Cheapest Flights</string>
+    <string name="one_way_ek12_string">to visit New Delhi India</string>
+    <string name="one_way_ek13_string">Measure your baggage</string>
+    <string name="one_way_ek14_string">One Way</string>
+    <string name="one_way_ek15_string">Round Trip</string>
+    <string name="one_way_ek16_string">Multi City</string>
+
+
+    <!-- _2_select_ticke strings -->
+
+
+
+    <string name="__283_string">$283</string>
+    <string name="duration___17h_15_m_string">Duration:</string>
+    <string name="duration___17h_15_m_ek1_string">17h 15 m</string>
+    <string name="duration___17h_15_m_ek2_string">|  Non - Stop</string>
+    <string name="_8_00_pm_string">8:00 pm</string>
+    <string name="_2_15_pm_string">2:15 pm</string>
+    <string name="dad__mon_string">AMS, Mon</string>
+    <string name="hkg__tue_string">DEL, Tue</string>
+    <string name="dad__mon_ek1_string">Flight No.</string>
+    <string name="dad__mon_ek2_string">BKN7</string>
+    <string name="__283_ek1_string">$447</string>
+    <string name="duration___17h_15_m_ek3_string">Duration:</string>
+    <string name="duration___17h_15_m_ek4_string">17h 15 m</string>
+    <string name="duration___17h_15_m_ek5_string">|  Non - Stop</string>
+    <string name="_8_00_pm_ek1_string">8:00 pm</string>
+    <string name="_2_15_pm_ek1_string">2:15 pm</string>
+    <string name="dad__mon_ek3_string">AMS, Mon</string>
+    <string name="hkg__tue_ek1_string">DEL, Tue</string>
+    <string name="dad__mon_ek4_string">Flight No.</string>
+    <string name="dad__mon_ek5_string">BKN7</string>
+    <string name="__283_ek2_string">$591</string>
+    <string name="duration___17h_15_m_ek6_string">Duration:</string>
+    <string name="duration___17h_15_m_ek7_string">17h 15 m</string>
+    <string name="duration___17h_15_m_ek8_string">|  Non - Stop</string>
+    <string name="_8_00_pm_ek2_string">8:00 pm</string>
+    <string name="_2_15_pm_ek2_string">2:15 pm</string>
+    <string name="dad__mon_ek6_string">AMS, Mon</string>
+    <string name="hkg__tue_ek2_string">DEL, Tue</string>
+    <string name="dad__mon_ek7_string">Flight No.</string>
+    <string name="dad__mon_ek8_string">BKN7</string>
+    <string name="__283_ek3_string">$283</string>
+    <string name="duration___17h_15_m_ek9_string">Duration:</string>
+    <string name="duration___17h_15_m_ek10_string">17h 15 m</string>
+    <string name="duration___17h_15_m_ek11_string">|  Non - Stop</string>
+    <string name="_8_00_pm_ek3_string">8:00 pm</string>
+    <string name="_2_15_pm_ek3_string">2:15 pm</string>
+    <string name="dad__mon_ek9_string">AMS, Mon</string>
+    <string name="hkg__tue_ek3_string">DEL, Tue</string>
+    <string name="dad__mon_ek10_string">Flight No.</string>
+    <string name="dad__mon_ek11_string">BKN7</string>
+
+    <!-- _3_flight_booked strings -->
+
+
+    <string name="slm_string">SLM</string>
+    <string name="btl_string">BTL</string>
+    <string name="business_class_string">Business class</string>
+    <string name="_4_flight_tickets_string">4 Flight Tickets</string>
+    <string name="date_string">Date</string>
+    <string name="_24_12_2018_string">12 Feb, 2020</string>
+    <string name="flight_ek1_string">Flight No.</string>
+    <string name="_76836a45_string">BKN7</string>
+    <string name="gate_string">Gate</string>
+    <string name="_66_b_string">66 B</string>
+    <string name="class_string">Class</string>
+    <string name="business_string">Business</string>
+    <string name="seat_string">Seat</string>
+    <string name="_21_b_string">21 B</string>
+    <string name="passengers_string">Passengers</string>
+    <string name="ilona_string">2 Adults</string>
+    <string name="_9824_0972_1742_1298_string">9824 0972 1742 1298</string>
+
+    <string name="share_with_friend_an_string">Share with friend and family</string>
+    <string name="___time_string">9:41</string>
+</resources>
